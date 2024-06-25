@@ -15,11 +15,9 @@ This repository contains the code and report for the "Smart Irrigation System" p
 5. [Data Flow](#data-flow)
 6. [Working Mechanism of Sensors](#working-mechanism-of-sensors)
 7. [Estimated Cost Analysis](#estimated-cost-analysis)
-8. [Work Plan](#work-plan)
-9. [Result and Analysis](#result-and-analysis)
-10. [Conclusion](#conclusion)
-11. [Responsibilities of Each Member](#responsibilities-of-each-member)
-12. [References](#references)
+8. [Result and Analysis](#result-and-analysis)
+9. [Conclusion](#conclusion)
+10. [References](#references)
 
 ### Introduction
 
@@ -87,14 +85,6 @@ The system processes sensor data to make informed decisions about irrigation:
 | Breadboard & wires  | 1        | Rs 400        | Rs 400     |
 | **Total**           | **11**   |               | **Rs 4705**|
 
-### Work Plan
-
-The project follows a structured approach:
-1. Individual Project Planning and Research
-2. Group Meeting for Work Division and Selection
-3. Circuit Design and Simulation
-4. Debugging and Optimization
-5. Cleanup and Documentation
 
 ### Result and Analysis
 
@@ -103,13 +93,6 @@ The Smart Irrigation System was successfully simulated using Tinkercad, demonstr
 ### Conclusion
 
 The Smart Irrigation System offers an efficient and automated solution for managing water usage in various applications. It ensures optimal watering based on real-time data, conserving resources and promoting healthier plant growth. Future enhancements could include remote monitoring capabilities and scalability options for larger setups.
-
-### Responsibilities of Each Member
-
-- **Dipen Khatri**: Sensor Mechanism (Soil Moisture), Tools and Technology, Work Plan.
-- **Bibhushan Saakha**: Sensor Mechanism (Temperature Sensor), Introduction, and Flowchart.
-- **Roshan Sahani**: Sensor Mechanism (Potentiometer), IC Diagram, and Conclusion.
-- **Samikshya Upadhyay**: Sensor Mechanism (Rain Switch), Application, and Estimated Cost Analysis.
 
 ### References
 
